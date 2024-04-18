@@ -1,2 +1,1 @@
-# MyMap
-google map with marker
+partial view and view component
